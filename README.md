@@ -1,4 +1,4 @@
-![logo](https://github.com/Suraj7897/Suraj7897/blob/main/Black%20Modern%20Vlogger%20YouTube%20Banner.png)
+
 <h1 align="center">Hi 👋, I'm Suraj Mukherjee</h1>
 <h3 align="center">A passionate Embedded & Flutter developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif">  
