@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **mukherjeesuraj7897@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1qmzIDT8NlI0FtW3YQ0yrdf5CGMzNOjjE/view?usp=sharing](https://drive.google.com/file/d/1qmzIDT8NlI0FtW3YQ0yrdf5CGMzNOjjE/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1qmzIDT8NlI0FtW3YQ0yrdf5CGMzNOjjE/view?usp=sharing](https://www.linkedin.com/in/suraj-mukherjee-64491923a/)
 
 - ⚡ Fun fact **I am a Youtuber with 3k Subs.**
 
