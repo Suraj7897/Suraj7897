@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Suraj Mukherjee</h1>
-<h3 align="center">A passionate Embedded & Flutter developer from India</h3>
+<h3 align="center">A passionate Embedded Software developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif">  
 
 <p align="left"> <a href="https://twitter.com/@yes_im_suraj_" target="blank"><img src="https://img.shields.io/twitter/follow/@yes_im_suraj_?logo=twitter&style=for-the-badge" alt="@yes_im_suraj_" /></a> </p>
