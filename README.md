@@ -1,17 +1,66 @@
-<h1 align="center">Hello, I'm Suraj Mukherjee 👋</h1>
-<h3 align="center">Passionate Embedded Software Developer | IoT Enthusiast | Innovating the Future of Technology 🌍</h3>
+<h1 align="center">Hi 👋, I'm Suraj Mukherjee</h1>
+<h3 align="center">A Passionate Embedded Software Developer | IoT Innovator | Hardware Enthusiast | Tech Content Creator</h3>
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif">
 
 <p align="left">
   <a href="https://twitter.com/@yes_im_suraj_" target="blank"><img src="https://img.shields.io/twitter/follow/@yes_im_suraj_?logo=twitter&style=for-the-badge" alt="@yes_im_suraj_" /></a>
 </p>
 
-- 🌱 I’m currently deepening my expertise in **Firmware Development**, **IoT** solutions, and creating **Embedded Systems** that change the way we live.
-- 💬 Feel free to ask me about anything related to **Embedded Systems**, **Firmware**, **IoT**, or **Hardware Engineering**.
-- 📫 Reach me via email: **mukherjeesuraj7897@gmail.com** or connect on [LinkedIn](https://www.linkedin.com/in/suraj-mukherjee-64491923a/).
-- 🎥 I’m a **YouTuber** with 3k subs, creating tech tutorials and sharing insights on **Embedded Development**, **IoT**, and more. Check out my videos on my [YouTube Channel](https://www.youtube.com/c/artificialgamer7897).
+---
 
-<h3 align="left">Let's Connect:</h3>
+## About Me
+
+I'm Suraj Mukherjee, a **passionate Embedded Software Developer** from India, specializing in **IoT**, **Firmware Development**, and **Embedded Systems**. With a strong foundation in electronics and programming, I love building **smart systems** that seamlessly integrate hardware and software. My mission is to create technologies that **optimize lives**, **enhance user experiences**, and **push the boundaries of innovation**.
+
+Beyond coding, I enjoy sharing my knowledge through my **YouTube channel**, where I create tutorials and content around **IoT**, **Embedded Development**, and **Firmware Engineering**. I’m constantly exploring new challenges and learning new skills, aiming to contribute to the future of technology.
+
+---
+
+## 🔧 Technologies & Tools
+
+I'm proficient in a variety of tools and programming languages. Here are some of the key technologies I work with:
+
+### **Programming Languages**:
+- **C** / **C++** (for embedded programming)
+- **Python** (for automation and data processing)
+- **JavaScript** (for web-based interfaces)
+- **Java** (for Android development)
+
+### **Embedded Platforms**:
+- **ESP32**, **Arduino**, **Raspberry Pi**
+- **STM32**, **8051**, **PIC**
+
+### **Technologies**:
+- **IoT** (Internet of Things)
+- **Firmware Development**
+- **Embedded Systems Design**
+- **Machine Learning for Embedded Applications**
+- **AI in IoT** (Artificial Intelligence)
+- **Wireless Communication Protocols** (Bluetooth, Wi-Fi, Zigbee, LoRa)
+
+### **Software & Tools**:
+- **MATLAB** (for simulations and prototyping)
+- **STM32CubeIDE**, **Arduino IDE**
+- **Figma** (UI/UX design for embedded applications)
+- **Git** & **GitHub** (version control)
+- **Jenkins** & **Docker** (for continuous integration and deployment)
+
+---
+
+## 🚀 What I'm Currently Working On
+
+- **Smart Plant Growth Optimizer** 🌱: An innovative solution to create a controlled environment for plants, using IoT and machine learning to optimize plant growth, monitor health, and automate care routines.
+- **MEDIBOT** 🏥: A healthcare robot designed to dispense medication, conduct remote consultations, and improve patient adherence to treatment plans by combining AI, IoT, and automation.
+- **Structural Health Monitoring System** 🏗️: An embedded system designed to monitor the integrity of bridges and buildings using sensors (strain gauges, accelerometers, cameras) and machine learning to detect potential failures.
+
+These projects are helping me push the boundaries of what embedded systems can achieve, combining cutting-edge technologies to deliver practical solutions.
+
+---
+
+## 🌱 Let's Connect!
+
+I’m always open to collaborating, learning, and discussing exciting projects. You can connect with me through the following platforms:
+
 <p align="left">
   <a href="https://twitter.com/@yes_im_suraj_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@yes_im_suraj_" height="30" width="40" /></a>
   <a href="https://www.linkedin.com/in/suraj-mukherjee-64491923a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
@@ -19,36 +68,39 @@
   <a href="https://www.youtube.com/c/artificialgamer7897" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Tech Stack & Tools I Use 🚀:</h3>
-<p align="left">
-  <a href="https://www.arduino.cc/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40" height="40" /></a>
-  <a href="https://www.cprogramming.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C Programming" width="40" height="40" /></a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" /></a>
-  <a href="https://www.mathworks.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB" width="40" height="40" /></a>
-  <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40" /></a>
-  <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40" /></a>
-  <a href="https://www.figma.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40" /></a>
-</p>
+---
 
-<h3 align="left">Check Out My GitHub Stats 📊:</h3>
-<p align="left">
+## 📊 GitHub Stats & Achievements
+
+- **Top Languages**:  
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=suraj7897&show_icons=true&locale=en&layout=compact" alt="Suraj's Top Languages" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=suraj7897&show_icons=true&locale=en" alt="Suraj's Stats" />
-</p>
+- **General Stats**:  
+  <img src="https://github-readme-stats.vercel.app/api?username=suraj7897&show_icons=true&locale=en" alt="Suraj's GitHub Stats" />
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=suraj7897&" alt="Suraj's Streak" />
-</p>
+- **Streaks**:  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=suraj7897&" alt="Suraj's GitHub Streak" />
 
-<h3 align="left">What I’m Working On 🚧:</h3>
+---
+
+## 🎯 Fun Fact
+
+When I’m not working on embedded systems or coding, I’m creating tech content for my **YouTube channel**, where I share **tutorials**, **reviews**, and **project ideas** on **IoT**, **Embedded Systems**, and **Artificial Intelligence**. I believe in the power of **continuous learning** and love experimenting with new tools and technologies.
+
+---
+
+## 💬 Ask Me About
+
+- **Embedded Systems** and their applications
+- **Firmware Development**
+- **IoT Projects** and Automation
+- **Tech Content Creation** and **YouTube Tutorials**
+- **Hardware Design** and **PCB Layouts**
+
+Feel free to drop a message, and let's have an insightful discussion!
+
+---
+
 <p align="left">
-  Currently, I'm developing cutting-edge IoT solutions for real-time applications like **smart health systems**, **structural monitoring**, and **automated plant care**. I'm also exploring the exciting world of **Firmware Development** to bring even more innovation to my embedded systems projects.
-</p>
-
-<h3 align="left">Fun Fact 🌟:</h3>
-<p align="left">
-  Apart from coding, I enjoy sharing tech insights on my YouTube channel, where I break down complex embedded systems and IoT concepts in easy-to-understand videos. Feel free to check it out!
+  <a href="mailto:mukherjeesuraj7897@gmail.com"><img src="https://img.shields.io/badge/Contact%20Me%20Via-Email-%23FF9900" alt="Contact Suraj" /></a>
 </p>
