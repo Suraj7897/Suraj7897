@@ -1,84 +1,75 @@
-<h1 align="center">Hey there, I'm Suraj Mukherjee 👋</h1>
-<h3 align="center">Embedded Software Developer | IoT Enthusiast | Firmware Developer | Tech Innovator 🚀</h3>
+<h1 align="center">Hi 👋, I'm Suraj Mukherjee</h1>
+<h3 align="center">A passionate Embedded Software developer from India</h3>
+<img align="right" alt="coding" width="400" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif">  
 
-<p align="center">
-  <img src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" width="400" alt="coding">
+<p align="left"> <a href="https://twitter.com/@yes_im_suraj_" target="blank"><img src="https://img.shields.io/twitter/follow/@yes_im_suraj_?logo=twitter&style=for-the-badge" alt="@yes_im_suraj_" /></a> </p>
+
+- 🌱 I’m currently learning **Firmware Development**
+
+- 💬 Ask me about **Embedded & Hardware**
+
+- 📫 How to reach me **mukherjeesuraj7897@gmail.com**
+
+- 📄 Know about my experiences [Tap On](https://www.linkedin.com/in/suraj-mukherjee-64491923a/)
+
+- ⚡ Fun fact **I am a Youtuber with 3k Subs.**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/@yes_im_suraj_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@yes_im_suraj_" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/suraj-mukherjee-64491923a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/suraj-mukherjee-64491923a/" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/yes_im_suraj_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/yes_im_suraj_/" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/https://www.youtube.com/@artificialgamer7897" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@artificialgamer7897" height="30" width="40" /></a>
 </p>
 
-<h3 align="center">Let's connect & build something amazing! 🌟</h3>
-
-<p align="center">
-  <a href="https://twitter.com/@yes_im_suraj_" target="blank"><img src="https://img.shields.io/twitter/follow/@yes_im_suraj_?logo=twitter&style=for-the-badge" alt="Follow me on Twitter" /></a>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> 
+    <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> 
+    </a>
+    <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> 
+        <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> 
+    </a> 
+    <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
+    </a> 
+    <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
+    </a> 
+    <a href="https://dart.dev" target="_blank" rel="noreferrer"> 
+        <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> 
+    </a> 
+    <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
+        <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
+    </a> 
+    <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
+        <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> 
+    </a> 
+    <a href="https://flutter.dev" target="_blank" rel="noreferrer"> 
+        <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> 
+    </a> 
+    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
+        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
+    </a> 
+    <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
+    </a> 
+    <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> 
+        <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> 
+    </a> 
+    <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> 
+        <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> 
+    </a> 
 </p>
 
----
+<!-- GitHub Stats -->
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=suraj7897&show_icons=true&locale=en&layout=compact" alt="suraj7897" /></p>
 
-## 🚀 **About Me**
+<!-- Main Stats -->
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=suraj7897&show_icons=true&locale=en" alt="suraj7897" /></p>
 
-Hi, I'm Suraj Mukherjee, a passionate Embedded Software Developer from India, obsessed with creating innovative solutions using IoT, Embedded Systems, and Firmware Development. I believe in the power of technology to make a real-world impact, whether it's improving healthcare, transforming industries, or helping farmers grow crops better with automation!
+<!-- Streak Stats -->
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=suraj7897&" alt="suraj7897" /></p>
 
-Currently, I'm diving deep into **Firmware Development**, working on a variety of projects that involve hardware, software, and everything in between. If you are into **IoT**, **Embedded Systems**, or **Machine Learning**, feel free to connect!
-
----
-
-## 🛠 **Technologies & Tools**
-
-I work with a wide array of tools and languages to bring ideas to life:
-
-- **Languages:** C, C++, Python, Java, JavaScript, HTML/CSS  
-- **Embedded Systems:** Arduino, Raspberry Pi, STM32, ESP32  
-- **IoT Platforms:** MQTT, Firebase, Home Assistant  
-- **Frameworks:** Flutter, Django  
-- **Tools:** Git, Docker, MATLAB, Visual Studio Code, Jupyter Notebook, STM32CubeIDE  
-- **Cloud & Databases:** Firebase, MySQL, MongoDB  
-- **Other:** Linux, Figma, OpenCV, TensorFlow
-
----
-
-## 🧑‍💻 **Current Focus & Projects**
-
-- **Developing Smart Solutions for Healthcare & Agriculture** 🌱  
-  Working on projects like **Medibot** – an AI-powered medical robot that helps in remote consultations and automated medication dispensing, and **Smart Plant Growth Optimizer** that uses AI to maximize crop yield.  
-  My goal is to automate, optimize, and innovate processes that improve people's lives.
-
-- **Exploring Machine Learning & AI in Embedded Systems** 🤖  
-  Working on integrating image processing, sensor data, and machine learning to create systems that adapt to the environment and make decisions based on real-time data.  
-  Whether it's disease detection in plants or structural health monitoring of bridges, I am always striving for new ways to blend AI with embedded systems.
-
----
-
-## 🌍 **Connect With Me**
-
-I’m always excited to collaborate, share ideas, or discuss the latest tech! You can reach out to me through any of the following:
-
-- [LinkedIn](https://www.linkedin.com/in/suraj-mukherjee-64491923a/)  
-- [Twitter](https://twitter.com/@yes_im_suraj_)  
-- [Instagram](https://www.instagram.com/yes_im_suraj_/)
-
----
-
-## 📅 **What’s Happening Right Now**
-
-- **Learning:** Firmware Development & Low-level Software Engineering  
-- **Exploring:** Machine Learning, AI in Embedded Systems, and Robotics  
-- **Building:** My next big project, **Smart Plant Growth Optimizer** 🌱
-
----
-
-## 💻 **GitHub Stats & Contributions**
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=suraj7897&show_icons=true&locale=en" alt="Suraj Mukherjee's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=suraj7897" alt="GitHub Streak" />
-</p>
-
----
-
-## 🎯 **Fun Facts & Fun Projects**
-
-- **YouTube:** I run a YouTube channel where I share tips, tutorials, and fun projects related to **Embedded Systems** and **IoT**. I have over 3k subscribers! [Check it out here](https://www.youtube.com/c/https://www.youtube.com/@artificialgamer7897)  
-- **Hobbies:** When I'm not coding, I'm either working on my farm bot, tinkering with hardware, or exploring new AI technologies.
-
----
-
-Let's connect and innovate together! 🌐
+<!-- Top GIF (Coding GIF) -->
+<img align="right" alt="coding" width="400" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif">
