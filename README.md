@@ -1,106 +1,84 @@
-<h1 align="center">Hi 👋, I'm Suraj Mukherjee</h1>
-<h3 align="center">A Passionate Embedded Software Developer | IoT Innovator | Hardware Enthusiast | Tech Content Creator</h3>
-<img align="right" alt="coding" width="400" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif">
+<h1 align="center">Hey there, I'm Suraj Mukherjee 👋</h1>
+<h3 align="center">Embedded Software Developer | IoT Enthusiast | Firmware Developer | Tech Innovator 🚀</h3>
 
-<p align="left">
-  <a href="https://twitter.com/@yes_im_suraj_" target="blank"><img src="https://img.shields.io/twitter/follow/@yes_im_suraj_?logo=twitter&style=for-the-badge" alt="@yes_im_suraj_" /></a>
+<p align="center">
+  <img src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" width="400" alt="coding">
+</p>
+
+<h3 align="center">Let's connect & build something amazing! 🌟</h3>
+
+<p align="center">
+  <a href="https://twitter.com/@yes_im_suraj_" target="blank"><img src="https://img.shields.io/twitter/follow/@yes_im_suraj_?logo=twitter&style=for-the-badge" alt="Follow me on Twitter" /></a>
 </p>
 
 ---
 
-## About Me
+## 🚀 **About Me**
 
-I'm Suraj Mukherjee, a **passionate Embedded Software Developer** from India, specializing in **IoT**, **Firmware Development**, and **Embedded Systems**. With a strong foundation in electronics and programming, I love building **smart systems** that seamlessly integrate hardware and software. My mission is to create technologies that **optimize lives**, **enhance user experiences**, and **push the boundaries of innovation**.
+Hi, I'm Suraj Mukherjee, a passionate Embedded Software Developer from India, obsessed with creating innovative solutions using IoT, Embedded Systems, and Firmware Development. I believe in the power of technology to make a real-world impact, whether it's improving healthcare, transforming industries, or helping farmers grow crops better with automation!
 
-Beyond coding, I enjoy sharing my knowledge through my **YouTube channel**, where I create tutorials and content around **IoT**, **Embedded Development**, and **Firmware Engineering**. I’m constantly exploring new challenges and learning new skills, aiming to contribute to the future of technology.
-
----
-
-## 🔧 Technologies & Tools
-
-I'm proficient in a variety of tools and programming languages. Here are some of the key technologies I work with:
-
-### **Programming Languages**:
-- **C** / **C++** (for embedded programming)
-- **Python** (for automation and data processing)
-- **JavaScript** (for web-based interfaces)
-- **Java** (for Android development)
-
-### **Embedded Platforms**:
-- **ESP32**, **Arduino**, **Raspberry Pi**
-- **STM32**, **8051**, **PIC**
-
-### **Technologies**:
-- **IoT** (Internet of Things)
-- **Firmware Development**
-- **Embedded Systems Design**
-- **Machine Learning for Embedded Applications**
-- **AI in IoT** (Artificial Intelligence)
-- **Wireless Communication Protocols** (Bluetooth, Wi-Fi, Zigbee, LoRa)
-
-### **Software & Tools**:
-- **MATLAB** (for simulations and prototyping)
-- **STM32CubeIDE**, **Arduino IDE**
-- **Figma** (UI/UX design for embedded applications)
-- **Git** & **GitHub** (version control)
-- **Jenkins** & **Docker** (for continuous integration and deployment)
+Currently, I'm diving deep into **Firmware Development**, working on a variety of projects that involve hardware, software, and everything in between. If you are into **IoT**, **Embedded Systems**, or **Machine Learning**, feel free to connect!
 
 ---
 
-## 🚀 What I'm Currently Working On
+## 🛠 **Technologies & Tools**
 
-- **Smart Plant Growth Optimizer** 🌱: An innovative solution to create a controlled environment for plants, using IoT and machine learning to optimize plant growth, monitor health, and automate care routines.
-- **MEDIBOT** 🏥: A healthcare robot designed to dispense medication, conduct remote consultations, and improve patient adherence to treatment plans by combining AI, IoT, and automation.
-- **Structural Health Monitoring System** 🏗️: An embedded system designed to monitor the integrity of bridges and buildings using sensors (strain gauges, accelerometers, cameras) and machine learning to detect potential failures.
+I work with a wide array of tools and languages to bring ideas to life:
 
-These projects are helping me push the boundaries of what embedded systems can achieve, combining cutting-edge technologies to deliver practical solutions.
+- **Languages:** C, C++, Python, Java, JavaScript, HTML/CSS  
+- **Embedded Systems:** Arduino, Raspberry Pi, STM32, ESP32  
+- **IoT Platforms:** MQTT, Firebase, Home Assistant  
+- **Frameworks:** Flutter, Django  
+- **Tools:** Git, Docker, MATLAB, Visual Studio Code, Jupyter Notebook, STM32CubeIDE  
+- **Cloud & Databases:** Firebase, MySQL, MongoDB  
+- **Other:** Linux, Figma, OpenCV, TensorFlow
 
 ---
 
-## 🌱 Let's Connect!
+## 🧑‍💻 **Current Focus & Projects**
 
-I’m always open to collaborating, learning, and discussing exciting projects. You can connect with me through the following platforms:
+- **Developing Smart Solutions for Healthcare & Agriculture** 🌱  
+  Working on projects like **Medibot** – an AI-powered medical robot that helps in remote consultations and automated medication dispensing, and **Smart Plant Growth Optimizer** that uses AI to maximize crop yield.  
+  My goal is to automate, optimize, and innovate processes that improve people's lives.
 
-<p align="left">
-  <a href="https://twitter.com/@yes_im_suraj_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@yes_im_suraj_" height="30" width="40" /></a>
-  <a href="https://www.linkedin.com/in/suraj-mukherjee-64491923a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-  <a href="https://www.instagram.com/yes_im_suraj_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
-  <a href="https://www.youtube.com/c/artificialgamer7897" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" /></a>
+- **Exploring Machine Learning & AI in Embedded Systems** 🤖  
+  Working on integrating image processing, sensor data, and machine learning to create systems that adapt to the environment and make decisions based on real-time data.  
+  Whether it's disease detection in plants or structural health monitoring of bridges, I am always striving for new ways to blend AI with embedded systems.
+
+---
+
+## 🌍 **Connect With Me**
+
+I’m always excited to collaborate, share ideas, or discuss the latest tech! You can reach out to me through any of the following:
+
+- [LinkedIn](https://www.linkedin.com/in/suraj-mukherjee-64491923a/)  
+- [Twitter](https://twitter.com/@yes_im_suraj_)  
+- [Instagram](https://www.instagram.com/yes_im_suraj_/)
+
+---
+
+## 📅 **What’s Happening Right Now**
+
+- **Learning:** Firmware Development & Low-level Software Engineering  
+- **Exploring:** Machine Learning, AI in Embedded Systems, and Robotics  
+- **Building:** My next big project, **Smart Plant Growth Optimizer** 🌱
+
+---
+
+## 💻 **GitHub Stats & Contributions**
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=suraj7897&show_icons=true&locale=en" alt="Suraj Mukherjee's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=suraj7897" alt="GitHub Streak" />
 </p>
 
 ---
 
-## 📊 GitHub Stats & Achievements
+## 🎯 **Fun Facts & Fun Projects**
 
-- **Top Languages**:  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=suraj7897&show_icons=true&locale=en&layout=compact" alt="Suraj's Top Languages" />
-
-- **General Stats**:  
-  <img src="https://github-readme-stats.vercel.app/api?username=suraj7897&show_icons=true&locale=en" alt="Suraj's GitHub Stats" />
-
-- **Streaks**:  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=suraj7897&" alt="Suraj's GitHub Streak" />
+- **YouTube:** I run a YouTube channel where I share tips, tutorials, and fun projects related to **Embedded Systems** and **IoT**. I have over 3k subscribers! [Check it out here](https://www.youtube.com/c/https://www.youtube.com/@artificialgamer7897)  
+- **Hobbies:** When I'm not coding, I'm either working on my farm bot, tinkering with hardware, or exploring new AI technologies.
 
 ---
 
-## 🎯 Fun Fact
-
-When I’m not working on embedded systems or coding, I’m creating tech content for my **YouTube channel**, where I share **tutorials**, **reviews**, and **project ideas** on **IoT**, **Embedded Systems**, and **Artificial Intelligence**. I believe in the power of **continuous learning** and love experimenting with new tools and technologies.
-
----
-
-## 💬 Ask Me About
-
-- **Embedded Systems** and their applications
-- **Firmware Development**
-- **IoT Projects** and Automation
-- **Tech Content Creation** and **YouTube Tutorials**
-- **Hardware Design** and **PCB Layouts**
-
-Feel free to drop a message, and let's have an insightful discussion!
-
----
-
-<p align="left">
-  <a href="mailto:mukherjeesuraj7897@gmail.com"><img src="https://img.shields.io/badge/Contact%20Me%20Via-Email-%23FF9900" alt="Contact Suraj" /></a>
-</p>
+Let's connect and innovate together! 🌐
