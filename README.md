@@ -47,14 +47,19 @@ I'm proficient in a variety of tools and programming languages. Here are some of
 
 ---
 
-## 🚀 What I'm Currently Working On
+## 🚀 What I'm Currently Exploring
 
-- **Smart Plant Growth Optimizer** 🌱: An innovative solution to create a controlled environment for plants, using IoT and machine learning to optimize plant growth, monitor health, and automate care routines.
-- **MEDIBOT** 🏥: A healthcare robot designed to dispense medication, conduct remote consultations, and improve patient adherence to treatment plans by combining AI, IoT, and automation.
-- **Structural Health Monitoring System** 🏗️: An embedded system designed to monitor the integrity of bridges and buildings using sensors (strain gauges, accelerometers, cameras) and machine learning to detect potential failures.
+- **RTOS & Embedded Firmware Development** ⚙️: Learning real-time operating systems (RTOS) and low-level firmware development to enhance efficiency and reliability in embedded applications.
+  <br>
+- **Advanced IoT & Edge Computing** 🌐: Exploring IoT protocols, real-time data processing, and edge AI to optimize smart systems.
+  <br>
+- **Hardware-Software Co-Design** 🛠️: Bridging the gap between hardware and software by working on custom PCB designs, microcontroller interfacing, and embedded C programming.
+  <br>
+- **Machine Learning on Embedded Devices** 🤖: Implementing TinyML and lightweight neural networks to run AI-driven applications on microcontrollers.
+  <br>
+- **Automation & Industrial Control Systems** 🏭: Diving into industrial automation, PLC programming, and control systems to enhance efficiency in manufacturing and robotics.
 
-These projects are helping me push the boundaries of what embedded systems can achieve, combining cutting-edge technologies to deliver practical solutions.
-
+These areas fuel my passion for embedded systems and innovation, enabling me to develop cutting-edge solutions for real-world challenges.
 ---
 
 ## 🌱 Let's Connect!
