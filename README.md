@@ -89,6 +89,7 @@ I’m always open to collaborating, learning, and discussing exciting projects. 
 ---
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Suraj7897&theme=prussian)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=Suraj7897&theme=prussian" alt="GitHub Streak" /></a>
 
 ## 🎯 Fun Fact
 
