@@ -88,6 +88,8 @@ I’m always open to collaborating, learning, and discussing exciting projects. 
 
 ---
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Suraj7897&theme=prussian)](https://git.io/streak-stats)
+
 ## 🎯 Fun Fact
 
 When I’m not working on embedded systems or coding, I’m creating tech content for my **YouTube channel**, where I share **tutorials**, **reviews**, and **project ideas** on **IoT**, **Embedded Systems**, and **Artificial Intelligence**. I believe in the power of **continuous learning** and love experimenting with new tools and technologies.
